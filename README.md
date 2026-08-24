@@ -8,7 +8,7 @@ Một dự án kiểm thử tự động (Automation Testing) dành cho website 
 * **Thư viện kiểm thử:** Selenium WebDriver
 * **Công cụ hỗ trợ (AI):** Ứng dụng AI (Claude, ChatGPT, Gemini) trong việc phân tích luồng, hỗ trợ sinh mã (generate code) script test và tạo dữ liệu kiểm thử (test data).
 
-## 📋 Các kịch bản kiểm thử (Test Cases) đã triển khai
+## Các kịch bản kiểm thử (Test Cases) đã triển khai
 Dự án bao phủ các luồng chức năng quan trọng nhất của một hệ thống E-commerce, bao gồm:
 * **Authentication (Xác thực người dùng):**
   * Đăng ký tài khoản mới thành công.
