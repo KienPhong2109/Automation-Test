@@ -23,23 +23,3 @@ Authentication (Xác thực người dùng):
   * Đăng xuất (Logout).
 * **Customer Service (Chăm sóc khách hàng):**
   * Gửi form liên hệ (Contact Us) thành công.
-
-## ⚙️ Hướng dẫn cài đặt và chạy (How to run)
-1. **Yêu cầu hệ thống:**
-   * Cài đặt [Visual Studio](https://visualstudio.microsoft.com/) (Khuyến nghị bản 2019 hoặc mới hơn).
-   * Trình duyệt Google Chrome.
-2. **Cài đặt dự án:**
-   * Clone repository này về máy:
-     ```bash
-     git clone [https://github.com/KienPhong2109/Automation-Test.git](https://github.com/KienPhong2109/Automation-Test.git)
-     ```
-   * Mở file `.sln` bằng Visual Studio.
-   * Chờ Visual Studio tự động khôi phục các gói NuGet (Selenium WebDriver).
-3. **Khởi chạy:**
-   * Nhấn `F5` hoặc nút `Start` trên Visual Studio để chạy ứng dụng WinForms.
-   * Giao diện Control Panel sẽ hiện ra, cho phép bạn chọn kịch bản và tự động chạy trình duyệt để thực thi các bước kiểm thử.
-
-## 👤 Thông tin tác giả
-* **Họ và tên:** Chung Kiến Phong
-* **Vị trí ứng tuyển:** Thực tập sinh Kiểm thử phần mềm (QA/Tester Intern)
-* **Email:** chungkienphong.hcm@gmail.com
