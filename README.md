@@ -1,6 +1,6 @@
 # E-Commerce Automation Testing (C# & Selenium)
 
-Một dự án kiểm thử tự động (Automation Testing) dành cho website thương mại điện tử [Automation Exercise](https://automationexercise.com/). Dự án được phát triển nhằm mục đích tự động hóa các luồng nghiệp vụ cốt lõi, giảm thiểu thời gian kiểm thử thủ công và đảm bảo chất lượng phần mềm.
+Một dự án kiểm thử tự động (Automation Testing) dành cho website thương mại điện tử [Automation Exercise](https://automationexercise.com/).
 
 ## Công nghệ sử dụng
 * **Ngôn ngữ:** C#
